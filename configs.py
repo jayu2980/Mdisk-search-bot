@@ -14,7 +14,7 @@ class Config(object):
     BOT_USERNAME = os.getenv("BOT_USERNAME", "mdisksearchonlinebot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5393990613"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "jblink90)
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "Technical_rakesh_01")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "jb_support")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**𝗛ᴇʏ 𝗕ᴜᴅᴅʏ! {}😃, 
 
@@ -39,7 +39,7 @@ class Config(object):
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001816512392"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 5))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "Technical_rakesh_01")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "jb_support")
     FORCE_SUB = os.getenv("FORCE_SUB", "True")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
     MDISK_API = os.getenv("MDISK_API", "fY4fnY9kkWCwfra5bYcE")
