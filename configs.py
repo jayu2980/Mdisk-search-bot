@@ -25,7 +25,7 @@ class Config(object):
 𝗙ᴏʀ 𝗠ᴏʀᴇ 𝗜ɴꜰᴏ 𝗖ʟɪᴄᴋ 𝗢ɴ 𝗛ᴇʟᴘ ✅
 
 𝗠𝗔𝗗𝗘 𝗪𝗜𝗧𝗛 ❤️ 𝗕𝗬
-@Rakesh_Owner_Bot
+@CrEzY_BoT_DeVeLoPeR
 
 """ ) 
     START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/44e7072ec7355745a4ab5.jpg")
@@ -35,14 +35,14 @@ class Config(object):
 
 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴 𝙸𝙽𝙵𝙾 𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙷𝙴𝙻𝙿 ✅""" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001877469974")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Test:1234@cluster0.2bzsp0q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001816512392"))
-    RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 5))
+    RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "jb_support")
-    FORCE_SUB = os.getenv("FORCE_SUB", "True")
+    FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
-    MDISK_API = os.getenv("MDISK_API", "fY4fnY9kkWCwfra5bYcE")
+    MDISK_API = os.getenv("MDISK_API", "")
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "31"))
     ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", """𝙸 𝙾𝙽𝙻𝚈 𝚂𝙷𝙰𝚁𝙴 𝚃𝙷𝙴 𝙿𝙾𝚂𝚃 𝙵𝚁𝙾𝙼 𝙿𝙴𝙾𝙿𝙻𝙴'𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻! 
 
@@ -50,7 +50,7 @@ class Config(object):
 
 𝙸 𝙽𝙾𝚃 𝚂𝚃𝙾𝚁𝙴 𝙰𝙽𝚈 𝙵𝙸𝙻𝙴 𝙾𝚁 𝚃𝙴𝚇𝚃 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴.
 
-𝙳𝙼 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚀𝚄𝙴𝚁𝚈 @Rakesh_Owner_Bot 🤖""" )
+𝙳𝙼 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚀𝚄𝙴𝚁𝚈 @CrEzY_BoT_DeVeLoPeR 🤖""" )
     
     ABOUT_HELP_TEXT = """
 
@@ -76,7 +76,7 @@ class Config(object):
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @Rakesh_Owner_Bot
+👉 @CrEzY_BoT_DeVeLoPeR
 
 """
 
