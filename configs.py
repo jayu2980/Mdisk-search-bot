@@ -28,7 +28,7 @@ class Config(object):
 @CrEzY_BoT_DeVeLoPeR
 
 """ ) 
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/44e7072ec7355745a4ab5.jpg")
+    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/d25f2895cb100c5c1c6f4.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", """ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝚃𝙷𝙴𝚁𝙴 𝚈𝙾𝚄 𝙻𝙸𝙽𝙺𝚂.
