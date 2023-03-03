@@ -109,7 +109,7 @@ async def message_handler(event):
     '''
 
             newbutton = [Button.url('Help🙋',
-                                    f'http://t.me/Rakesh_Owner_Bot')]
+                                    f'http://t.me/jblink90')]
 
             await txt.delete()
             result = await event.reply(answer, buttons=newbutton, link_preview=False)
